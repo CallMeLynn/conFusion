@@ -35,3 +35,33 @@ address {
     border-bottom: 1px solid #ddd;
     padding: 10px;
 }
+
+.navbar {
+    background-color: #5322a7;
+}
+
+.link {
+    color: white;
+}
+
+.btn-sm {
+    height: 45px;
+    width: 120px;
+}
+
+.bold {
+    font-weight: 600;
+}
+
+.carousel {
+    background: #512DA8;
+}
+
+.carousel-item {
+    height: 900px;
+}
+
+.carousel-item img {
+    min-height: 100%;
+    margin: auto;
+}
